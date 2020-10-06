@@ -1,0 +1,25 @@
+.title {
+  margin-bottom: 23px;
+}
+.grid-item {
+  padding: 15px 0px 15px;
+
+  display: flex;
+}
+
+.product-item-groups {
+  display: flex;
+}
+.delete-link {
+  margin-top: 10px;
+}
+.product-item-price {
+  text-align: center;
+  font-weight: bold;
+}
+.product-item-title {
+  font-weight: bold;
+}
+.red{
+  color : rgb(211, 11, 11);
+}
